@@ -1,5 +1,7 @@
-Yoga Pose Recognition using Machine Learning
-This repository contains the implementation of a yoga pose recognition system using machine learning techniques. The system is designed to recognize various yoga poses from images or videos.
+Yoga Pose Recognition using Deep Learning
+
+
+This repository contains the implementation of a yoga pose recognition system using deep learning techniques. The system is designed to recognize various yoga poses from images or videos.
 
 Features
 Detection and recognition of various yoga poses.
